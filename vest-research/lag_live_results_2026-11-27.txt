@@ -1,0 +1,33 @@
+Vest snapshots 17393 (02:16-13:14 ET, gap 02:29-09:33), real quotes to 13:04 ET
+
+===== FIXED RULE: N=1 min, THR=3bp, H=2 min, TP $2.50 =====
+  fixed                      NDX 20x overnight:    1 trades win nan% avg   +nanbp t  +nan
+  fixed                      NDX 20x regular  :  291 trades win  78% avg  +0.38bp t +1.15
+                             NDX 20x whole day: payouts  225  accounts used  55  claimed $ 686.15  net $ +136.15
+  fixed                      NDX 50x overnight:    1 trades win nan% avg   +nanbp t  +nan
+  fixed                      NDX 50x regular  :  585 trades win  74% avg  +0.03bp t +0.24
+                             NDX 50x whole day: payouts  431  accounts used 156  claimed $1958.21  net $ +398.21
+  fixed                      SPX 20x regular  :  120 trades win  70% avg  -0.21bp t -0.43
+                             SPX 20x whole day: payouts   80  accounts used  25  claimed $ 225.80  net $  -24.20
+  fixed                      SPX 50x regular  :  233 trades win  71% avg  -0.49bp t -2.32
+                             SPX 50x whole day: payouts  164  accounts used  68  claimed $ 578.52  net $ -101.48
+  fixed                      RTY 20x regular  :  103 trades win  58% avg  -1.57bp t -2.64
+                             RTY 20x whole day: payouts   55  accounts used  29  claimed $ 150.73  net $ -139.27
+  fixed                      RTY 50x regular  :  194 trades win  55% avg  -1.67bp t -6.23
+                             RTY 50x whole day: payouts  107  accounts used  87  claimed $ 402.46  net $ -467.54
+
+===== ROBUSTNESS GRID (20x only, all markets pooled by trade) =====
+  N=1 THR=2 H=1: | overnight    4 tr avg  -2.01bp t -0.99 win  25% | regular  892 tr avg  -0.58bp t -3.45 win  59% | payouts 451 accts 165 net $-407.57
+  N=1 THR=2 H=5: | overnight    3 tr avg  +1.51bp t +1.15 win  67% | regular  624 tr avg  -0.38bp t -1.54 win  73% | payouts 455 accts 152 net $-143.45
+  N=1 THR=5 H=1: | overnight    0 tr avg   +nanbp t  +nan win nan% | regular  217 tr avg  -0.45bp t -1.14 win  66% | payouts 139 accts 49 net $-71.03
+  N=1 THR=5 H=5: | overnight    0 tr avg   +nanbp t  +nan win nan% | regular  202 tr avg  -0.13bp t -0.29 win  76% | payouts 153 accts 49 net $-10.07
+  N=3 THR=2 H=1: | overnight    1 tr avg   +nanbp t  +nan win nan% | regular  856 tr avg  -0.37bp t -2.24 win  59% | payouts 419 accts 138 net $-237.41
+  N=3 THR=2 H=5: | overnight    1 tr avg   +nanbp t  +nan win nan% | regular  573 tr avg  -0.50bp t -1.95 win  72% | payouts 410 accts 145 net $-210.26
+  N=3 THR=5 H=1: | overnight    0 tr avg   +nanbp t  +nan win nan% | regular  217 tr avg  -0.68bp t -1.70 win  64% | payouts 127 accts 51 net $-125.03
+  N=3 THR=5 H=5: | overnight    0 tr avg   +nanbp t  +nan win nan% | regular  204 tr avg  -0.32bp t -0.71 win  75% | payouts 150 accts 53 net $-53.66
+NDX 20x: signal net $+136.15 | random-direction net: median $-25.19, 5%..95% $-127.95..$+76.32, share of random runs beating the signal 0%
+NDX 50x: signal net $+398.21 | random-direction net: median $-220.65, 5%..95% $-444.82..$+17.44, share of random runs beating the signal 0%
+SPX 20x: signal net $-24.20 | random-direction net: median $-81.29, 5%..95% $-179.53..$-1.05, share of random runs beating the signal 11%
+SPX 50x: signal net $-101.48 | random-direction net: median $-279.93, 5%..95% $-426.70..$-106.01, share of random runs beating the signal 4%
+RTY 20x: signal net $-139.27 | random-direction net: median $-180.86, 5%..95% $-276.77..$-100.83, share of random runs beating the signal 13%
+RTY 50x: signal net $-467.54 | random-direction net: median $-621.99, 5%..95% $-783.82..$-479.52, share of random runs beating the signal 4%
