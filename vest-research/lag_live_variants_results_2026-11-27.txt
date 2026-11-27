@@ -1,0 +1,40 @@
+
+===== A) futures signal, liquidation at MARK =====
+  NDX fixed rule: | 20x 288 tr win  77% avg +0.28bp t +0.82 payouts 220 accts  57 net $+103.34 | 50x 584 tr win  73% avg +0.04bp t +0.33 payouts 428 accts 158 net $+352.54
+  SPX fixed rule: | 20x 118 tr win  70% avg -0.35bp t -0.68 payouts  80 accts  26 net $ -41.41 | 50x 231 tr win  71% avg -0.41bp t -2.03 payouts 162 accts  68 net $-112.14
+  RTY fixed rule: | 20x  95 tr win  56% avg -1.68bp t -2.56 payouts  47 accts  22 net $ -93.23 | 50x 153 tr win  58% avg -1.82bp t -5.28 payouts  88 accts  62 net $-303.14
+  NDX grid (8 settings x 20x/50x): 11/16 positive, net $ range -64..+429
+
+===== B) Vest INDEX signal, liquidation at mid =====
+  NDX fixed rule: | 20x 138 tr win  81% avg +0.74bp t +1.51 payouts 112 accts  26 net $+103.34 | 50x 199 tr win  84% avg +0.93bp t +4.31 payouts 169 accts  32 net $+539.31
+  SPX fixed rule: | 20x  32 tr win  81% avg +1.14bp t +1.13 payouts  26 accts   6 net $ +26.60 | 50x  38 tr win  89% avg +1.09bp t +2.77 payouts  34 accts   5 net $+100.30
+  RTY fixed rule: | 20x  37 tr win  86% avg +1.40bp t +1.74 payouts  31 accts   5 net $ +43.28 | 50x  45 tr win  80% avg +0.42bp t +0.87 payouts  36 accts  10 net $ +65.41
+  NDX grid (8 settings x 20x/50x): 14/16 positive, net $ range -10..+893
+
+===== B+A) Vest INDEX signal, liquidation at MARK =====
+  NDX fixed rule: | 20x 139 tr win  81% avg +0.74bp t +1.53 payouts 113 accts  26 net $+106.11 | 50x 196 tr win  84% avg +0.97bp t +4.46 payouts 166 accts  32 net $+532.11
+  SPX fixed rule: | 20x  32 tr win  81% avg +1.19bp t +1.21 payouts  26 accts   6 net $ +26.60 | 50x  38 tr win  89% avg +1.09bp t +2.77 payouts  34 accts   5 net $+100.30
+  RTY fixed rule: | 20x  36 tr win  89% avg +1.66bp t +2.04 payouts  31 accts   4 net $ +54.67 | 50x  43 tr win  74% avg -0.01bp t -0.02 payouts  31 accts  13 net $ +20.71
+  NDX grid (8 settings x 20x/50x): 15/16 positive, net $ range -12..+922
+
+===== signal from index, liquidation at mark =====
+  delay 0 snapshot(s) ~0s  NDX: | 20x 139 tr win  81% avg +0.74bp t +1.53 payouts 113 accts  26 claimed $ 366.11 net $+106.11 | 50x 196 tr win  84% avg +0.97bp t +4.46 payouts 166 accts  32 claimed $ 852.11 net $+532.11
+  delay 0 snapshot(s) ~0s  SPX: | 20x  32 tr win  81% avg +1.19bp t +1.21 payouts  26 accts   6 claimed $  86.60 net $ +26.60 | 50x  38 tr win  89% avg +1.09bp t +2.77 payouts  34 accts   5 claimed $ 150.30 net $+100.30
+  delay 0 snapshot(s) ~0s  RTY: | 20x  36 tr win  89% avg +1.66bp t +2.04 payouts  31 accts   4 claimed $  94.67 net $ +54.67 | 50x  43 tr win  74% avg -0.01bp t -0.02 payouts  31 accts  13 claimed $ 150.71 net $ +20.71
+  delay 1 snapshot(s) ~1s  NDX: | 20x 110 tr win  68% avg -0.94bp t -1.43 payouts  75 accts  35 claimed $ 246.57 net $-103.43 | 50x 177 tr win  58% avg -0.61bp t -2.16 payouts 102 accts  62 claimed $ 503.41 net $-116.59
+  delay 1 snapshot(s) ~1s  SPX: | 20x  28 tr win  71% avg -1.07bp t -0.85 payouts  20 accts   9 claimed $  56.56 net $ -33.44 | 50x  37 tr win  62% avg -0.25bp t -0.52 payouts  21 accts   9 claimed $  73.50 net $ -16.50
+  delay 1 snapshot(s) ~1s  RTY: | 20x  33 tr win  76% avg -0.07bp t -0.06 payouts  25 accts   7 claimed $  71.56 net $  +1.56 | 50x  42 tr win  60% avg -0.84bp t -1.32 payouts  23 accts  20 claimed $ 128.32 net $ -71.68
+  delay 2 snapshot(s) ~2s  NDX: | 20x 107 tr win  65% avg -1.23bp t -1.94 payouts  68 accts  33 claimed $ 198.78 net $-131.22 | 50x 161 tr win  53% avg -0.47bp t -1.56 payouts  85 accts  57 claimed $ 500.12 net $ -69.88
+  delay 2 snapshot(s) ~2s  SPX: | 20x  26 tr win  73% avg -0.22bp t -0.17 payouts  19 accts   7 claimed $  57.85 net $ -12.15 | 50x  34 tr win  44% avg -1.30bp t -2.04 payouts  14 accts  17 claimed $  80.91 net $ -89.09
+  delay 2 snapshot(s) ~2s  RTY: | 20x  28 tr win  75% avg +1.02bp t +0.89 payouts  20 accts   6 claimed $  79.41 net $ +19.41 | 50x  39 tr win  51% avg -0.95bp t -1.43 payouts  20 accts  17 claimed $ 110.08 net $ -59.92
+
+===== signal from futures, liquidation at mark =====
+  delay 0 snapshot(s) ~0s  NDX: | 20x 288 tr win  77% avg +0.28bp t +0.82 payouts 220 accts  57 claimed $ 673.34 net $+103.34 | 50x 584 tr win  73% avg +0.04bp t +0.33 payouts 428 accts 158 claimed $1932.54 net $+352.54
+  delay 0 snapshot(s) ~0s  SPX: | 20x 118 tr win  70% avg -0.35bp t -0.68 payouts  80 accts  26 claimed $ 218.59 net $ -41.41 | 50x 231 tr win  71% avg -0.41bp t -2.03 payouts 162 accts  68 claimed $ 567.86 net $-112.14
+  delay 0 snapshot(s) ~0s  RTY: | 20x  95 tr win  56% avg -1.68bp t -2.56 payouts  47 accts  22 claimed $ 126.77 net $ -93.23 | 50x 153 tr win  58% avg -1.82bp t -5.28 payouts  88 accts  62 claimed $ 316.86 net $-303.14
+  delay 1 snapshot(s) ~1s  NDX: | 20x 242 tr win  71% avg -0.44bp t -1.10 payouts 168 accts  59 claimed $ 513.59 net $ -76.41 | 50x 521 tr win  63% avg -0.39bp t -2.56 payouts 327 accts 170 claimed $1553.32 net $-146.68
+  delay 1 snapshot(s) ~1s  SPX: | 20x 117 tr win  59% avg -1.66bp t -2.90 payouts  65 accts  37 claimed $ 181.28 net $-188.72 | 50x 228 tr win  63% avg -0.65bp t -3.11 payouts 143 accts  76 claimed $ 534.94 net $-225.06
+  delay 1 snapshot(s) ~1s  RTY: | 20x  85 tr win  55% avg -2.00bp t -2.61 payouts  43 accts  22 claimed $ 119.83 net $-100.17 | 50x 153 tr win  50% avg -1.90bp t -5.48 payouts  76 accts  68 claimed $ 326.38 net $-353.62
+  delay 2 snapshot(s) ~2s  NDX: | 20x 243 tr win  74% avg +0.08bp t +0.21 payouts 173 accts  50 claimed $ 533.87 net $ +33.87 | 50x 475 tr win  57% avg -0.43bp t -2.68 payouts 263 accts 159 claimed $1360.40 net $-229.60
+  delay 2 snapshot(s) ~2s  SPX: | 20x 114 tr win  59% avg -1.58bp t -2.65 payouts  58 accts  35 claimed $ 177.70 net $-172.30 | 50x 215 tr win  54% avg -0.73bp t -3.17 payouts 117 accts  74 claimed $ 502.16 net $-237.84
+  delay 2 snapshot(s) ~2s  RTY: | 20x  88 tr win  55% avg -2.09bp t -2.72 payouts  41 accts  24 claimed $ 133.63 net $-106.37 | 50x 144 tr win  42% avg -2.00bp t -5.43 payouts  60 accts  69 claimed $ 325.37 net $-364.63
