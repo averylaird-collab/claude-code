@@ -1,0 +1,348 @@
+
+################ STOP = other side of range ################
+
+=== CRYPTO perps, range from the 9:30 ET US open, exit 16:00 ET (weekdays), cost 2bp ===
+  BTC US-open      10 min [opp]           n  1782 | avg   +7.74bp t +2.22 win  34% | first half t +2.18  second half t +0.76 | long   +7.01bp  short   +8.42bp
+  ETH US-open      10 min [opp]           n  1780 | avg   +8.96bp t +2.07 win  33% | first half t +1.28  second half t +1.69 | long  +12.95bp  short   +5.46bp
+  SOL US-open      10 min [opp]           n  1597 | avg   +2.39bp t +0.38 win  32% | first half t +0.12  second half t +0.52 | long   -0.33bp  short   +5.00bp
+  CRYPTO US pooled 10 min [opp]           n  5159 | avg   +6.50bp t +2.38 win  33% | first half t +1.70  second half t +1.71 | long   +6.68bp  short   +6.33bp
+  BTC US-open      15 min [opp]           n  1774 | avg   +7.97bp t +2.24 win  37% | first half t +2.46  second half t +0.39 | long   +6.12bp  short   +9.74bp
+  ETH US-open      15 min [opp]           n  1776 | avg   +8.46bp t +1.93 win  36% | first half t +1.40  second half t +1.32 | long  +11.40bp  short   +5.80bp
+  SOL US-open      15 min [opp]           n  1594 | avg   +6.36bp t +0.95 win  35% | first half t +1.29  second half t -0.32 | long   -2.44bp  short  +15.15bp
+  CRYPTO US pooled 15 min [opp]           n  5144 | avg   +7.64bp t +2.68 win  36% | first half t +2.72  second half t +0.76 | long   +5.18bp  short   +9.99bp
+  BTC US-open      30 min [opp]           n  1742 | avg  +11.80bp t +3.24 win  44% | first half t +3.16  second half t +1.14 | long  +11.69bp  short  +11.92bp
+  ETH US-open      30 min [opp]           n  1750 | avg  +12.67bp t +2.83 win  43% | first half t +1.74  second half t +2.35 | long  +16.23bp  short   +9.31bp
+  SOL US-open      30 min [opp]           n  1579 | avg  +11.91bp t +1.73 win  41% | first half t +1.43  second half t +0.98 | long   +3.93bp  short  +19.73bp
+  CRYPTO US pooled 30 min [opp]           n  5071 | avg  +12.13bp t +4.15 win  43% | first half t +3.29  second half t +2.55 | long  +10.81bp  short  +13.43bp
+  BTC US-open      40 min [opp]           n  1718 | avg  +13.26bp t +3.63 win  46% | first half t +3.26  second half t +1.67 | long  +11.55bp  short  +15.00bp
+  ETH US-open      40 min [opp]           n  1720 | avg  +12.74bp t +2.83 win  44% | first half t +1.81  second half t +2.27 | long  +17.20bp  short   +8.57bp
+  SOL US-open      40 min [opp]           n  1559 | avg  +10.82bp t +1.52 win  43% | first half t +1.45  second half t +0.55 | long   +0.60bp  short  +21.02bp
+  CRYPTO US pooled 40 min [opp]           n  4997 | avg  +12.32bp t +4.14 win  44% | first half t +3.35  second half t +2.44 | long  +10.00bp  short  +14.59bp
+  BTC US-open      45 min [opp]           n  1705 | avg  +11.80bp t +3.29 win  46% | first half t +2.97  second half t +1.48 | long  +11.43bp  short  +12.18bp
+  ETH US-open      45 min [opp]           n  1706 | avg  +11.71bp t +2.64 win  45% | first half t +1.46  second half t +2.40 | long  +16.78bp  short   +6.89bp
+  SOL US-open      45 min [opp]           n  1549 | avg  +10.28bp t +1.45 win  44% | first half t +1.53  second half t +0.25 | long   +2.34bp  short  +18.04bp
+  CRYPTO US pooled 45 min [opp]           n  4960 | avg  +11.29bp t +3.81 win  45% | first half t +3.10  second half t +2.22 | long  +10.41bp  short  +12.16bp
+  BTC US-open      1 hour [opp]           n  1655 | avg   +8.25bp t +2.35 win  46% | first half t +2.41  second half t +0.61 | long   +9.43bp  short   +7.08bp
+  ETH US-open      1 hour [opp]           n  1651 | avg   +7.88bp t +1.78 win  45% | first half t +0.95  second half t +1.66 | long  +14.70bp  short   +1.31bp
+  SOL US-open      1 hour [opp]           n  1513 | avg   +5.69bp t +0.80 win  45% | first half t +1.26  second half t -0.64 | long   +6.09bp  short   +5.34bp
+  CRYPTO US pooled 1 hour [opp]           n  4819 | avg   +7.32bp t +2.47 win  45% | first half t +2.41  second half t +0.81 | long  +10.22bp  short   +4.55bp
+  BTC US-open      2 hours [opp]          n  1382 | avg   -0.78bp t -0.23 win  42% | first half t +0.01  second half t -0.47 | long   +2.45bp  short   -4.01bp
+  ETH US-open      2 hours [opp]          n  1383 | avg   +2.40bp t +0.53 win  46% | first half t +0.16  second half t +0.69 | long   +6.69bp  short   -2.00bp
+  SOL US-open      2 hours [opp]          n  1304 | avg   +6.46bp t +0.92 win  47% | first half t +1.66  second half t -1.13 | long   +7.56bp  short   +5.47bp
+  CRYPTO US pooled 2 hours [opp]          n  4069 | avg   +2.62bp t +0.88 win  45% | first half t +1.37  second half t -0.58 | long   +5.50bp  short   -0.20bp
+  BTC US-open      3 hours [opp]          n  1086 | avg   +0.25bp t +0.07 win  44% | first half t +0.45  second half t -0.66 | long   +4.44bp  short   -3.98bp
+  ETH US-open      3 hours [opp]          n  1116 | avg   -4.24bp t -0.90 win  44% | first half t -0.69  second half t -0.58 | long   -1.99bp  short   -6.61bp
+  SOL US-open      3 hours [opp]          n  1088 | avg   +1.68bp t +0.27 win  45% | first half t +1.03  second half t -1.23 | long   +3.92bp  short   -0.29bp
+  CRYPTO US pooled 3 hours [opp]          n  3290 | avg   -0.80bp t -0.28 win  44% | first half t +0.57  second half t -1.47 | long   +2.02bp  short   -3.56bp
+  BTC US-open      4 hours [opp]          n   829 | avg   -1.90bp t -0.48 win  45% | first half t -0.25  second half t -0.58 | long   +6.36bp  short  -10.03bp
+  ETH US-open      4 hours [opp]          n   834 | avg   -3.29bp t -0.71 win  44% | first half t -0.14  second half t -1.07 | long   +0.11bp  short   -7.04bp
+  SOL US-open      4 hours [opp]          n   827 | avg   -1.98bp t -0.32 win  45% | first half t +0.50  second half t -1.71 | long   +3.09bp  short   -6.68bp
+  CRYPTO US pooled 4 hours [opp]          n  2490 | avg   -2.39bp t -0.83 win  45% | first half t +0.17  second half t -2.04 | long   +3.12bp  short   -7.92bp
+  BTC US-open      5 hours [opp]          n   555 | avg   -4.06bp t -0.91 win  46% | first half t -0.32  second half t -1.48 | long   +2.70bp  short  -10.94bp
+  ETH US-open      5 hours [opp]          n   548 | avg   -3.56bp t -0.73 win  43% | first half t -0.52  second half t -0.55 | long   +0.38bp  short   -7.96bp
+  SOL US-open      5 hours [opp]          n   540 | avg   -0.42bp t -0.07 win  46% | first half t +0.59  second half t -1.23 | long   -0.11bp  short   -0.71bp
+  CRYPTO US pooled 5 hours [opp]          n  1643 | avg   -2.70bp t -0.89 win  45% | first half t -0.04  second half t -1.82 | long   +1.01bp  short   -6.48bp
+
+=== CRYPTO perps, range from 00:00 UTC, exit 24:00 UTC (all days), cost 2bp ===
+  BTC UTC-day      10 min [opp]           n  2495 | avg   -4.50bp t -1.28 win  13% | first half t -0.15  second half t -3.03 | long   -6.40bp  short   -2.66bp
+  ETH UTC-day      10 min [opp]           n  2496 | avg   -0.76bp t -0.16 win  15% | first half t +0.62  second half t -1.83 | long   -1.74bp  short   +0.21bp
+  SOL UTC-day      10 min [opp]           n  2232 | avg  -14.27bp t -2.11 win  14% | first half t -0.67  second half t -4.03 | long  -18.34bp  short  -10.01bp
+  CRYPTO UTC pooled 10 min [opp]           n  7223 | avg   -6.22bp t -2.14 win  14% | first half t -0.21  second half t -5.14 | long   -8.58bp  short   -3.88bp
+  BTC UTC-day      15 min [opp]           n  2494 | avg   -5.00bp t -1.36 win  15% | first half t -0.46  second half t -2.33 | long   -4.53bp  short   -5.44bp
+  ETH UTC-day      15 min [opp]           n  2496 | avg   +0.48bp t +0.10 win  17% | first half t +1.10  second half t -2.28 | long   +1.13bp  short   -0.15bp
+  SOL UTC-day      15 min [opp]           n  2232 | avg  -18.00bp t -2.58 win  16% | first half t -1.10  second half t -3.93 | long  -20.75bp  short  -15.14bp
+  CRYPTO UTC pooled 15 min [opp]           n  7222 | avg   -7.12bp t -2.35 win  16% | first half t -0.35  second half t -5.06 | long   -7.76bp  short   -6.50bp
+  BTC UTC-day      30 min [opp]           n  2492 | avg   -4.41bp t -1.09 win  20% | first half t -0.03  second half t -2.45 | long   -1.57bp  short   -7.04bp
+  ETH UTC-day      30 min [opp]           n  2493 | avg   +2.74bp t +0.50 win  22% | first half t +1.38  second half t -1.60 | long   +9.99bp  short   -4.15bp
+  SOL UTC-day      30 min [opp]           n  2232 | avg  -16.20bp t -2.15 win  21% | first half t -0.60  second half t -3.79 | long  -18.64bp  short  -13.79bp
+  CRYPTO UTC pooled 30 min [opp]           n  7217 | avg   -5.58bp t -1.68 win  21% | first half t +0.34  second half t -4.57 | long   -2.95bp  short   -8.09bp
+  BTC UTC-day      40 min [opp]           n  2490 | avg   +1.87bp t +0.43 win  24% | first half t +0.83  second half t -0.65 | long   +7.98bp  short   -3.74bp
+  ETH UTC-day      40 min [opp]           n  2489 | avg   +5.54bp t +0.96 win  26% | first half t +1.81  second half t -1.35 | long  +13.31bp  short   -1.87bp
+  SOL UTC-day      40 min [opp]           n  2232 | avg  -15.61bp t -1.98 win  24% | first half t -0.59  second half t -3.33 | long  -21.19bp  short  -10.03bp
+  CRYPTO UTC pooled 40 min [opp]           n  7211 | avg   -2.27bp t -0.65 win  25% | first half t +0.96  second half t -3.34 | long   +0.58bp  short   -5.00bp
+  BTC UTC-day      45 min [opp]           n  2490 | avg   +3.87bp t +0.88 win  25% | first half t +1.07  second half t -0.13 | long   +9.71bp  short   -1.55bp
+  ETH UTC-day      45 min [opp]           n  2488 | avg   +7.14bp t +1.22 win  27% | first half t +1.85  second half t -0.83 | long  +15.52bp  short   -0.97bp
+  SOL UTC-day      45 min [opp]           n  2232 | avg  -13.46bp t -1.68 win  26% | first half t -0.21  second half t -3.42 | long  -19.13bp  short   -7.74bp
+  CRYPTO UTC pooled 45 min [opp]           n  7210 | avg   -0.37bp t -0.10 win  26% | first half t +1.34  second half t -2.84 | long   +2.59bp  short   -3.22bp
+  BTC UTC-day      1 hour [opp]           n  2489 | avg   +5.34bp t +1.17 win  28% | first half t +1.16  second half t +0.31 | long  +12.81bp  short   -1.88bp
+  ETH UTC-day      1 hour [opp]           n  2488 | avg  +11.30bp t +1.89 win  30% | first half t +2.28  second half t -0.20 | long  +18.80bp  short   +3.98bp
+  SOL UTC-day      1 hour [opp]           n  2231 | avg   -9.49bp t -1.15 win  29% | first half t +0.01  second half t -2.62 | long   -9.93bp  short   -9.02bp
+  CRYPTO UTC pooled 1 hour [opp]           n  7208 | avg   +2.81bp t +0.77 win  29% | first half t +1.78  second half t -1.74 | long   +7.63bp  short   -1.99bp
+  BTC UTC-day      2 hours [opp]          n  2475 | avg   +4.92bp t +1.03 win  35% | first half t +0.98  second half t +0.35 | long  +16.45bp  short   -6.67bp
+  ETH UTC-day      2 hours [opp]          n  2473 | avg  +11.36bp t +1.78 win  37% | first half t +1.56  second half t +0.87 | long  +22.14bp  short   +0.33bp
+  SOL UTC-day      2 hours [opp]          n  2225 | avg  -14.99bp t -1.72 win  35% | first half t -0.61  second half t -2.59 | long   -6.60bp  short  -23.73bp
+  CRYPTO UTC pooled 2 hours [opp]          n  7173 | avg   +0.96bp t +0.25 win  35% | first half t +0.85  second half t -1.01 | long  +11.20bp  short   -9.50bp
+  BTC UTC-day      3 hours [opp]          n  2462 | avg   +3.46bp t +0.74 win  38% | first half t +0.83  second half t +0.02 | long  +16.91bp  short  -10.25bp
+  ETH UTC-day      3 hours [opp]          n  2458 | avg  +15.18bp t +2.42 win  40% | first half t +1.84  second half t +1.64 | long  +23.31bp  short   +6.46bp
+  SOL UTC-day      3 hours [opp]          n  2211 | avg   -8.27bp t -0.91 win  39% | first half t -0.12  second half t -1.78 | long   +6.43bp  short  -23.67bp
+  CRYPTO UTC pooled 3 hours [opp]          n  7131 | avg   +3.86bp t +0.99 win  39% | first half t +1.25  second half t -0.21 | long  +15.89bp  short   -8.72bp
+  BTC UTC-day      4 hours [opp]          n  2445 | avg   +3.03bp t +0.64 win  40% | first half t +0.65  second half t +0.15 | long  +17.36bp  short  -11.76bp
+  ETH UTC-day      4 hours [opp]          n  2431 | avg  +15.52bp t +2.44 win  42% | first half t +1.93  second half t +1.51 | long  +22.84bp  short   +7.28bp
+  SOL UTC-day      4 hours [opp]          n  2194 | avg  -12.54bp t -1.38 win  41% | first half t -0.79  second half t -1.50 | long   -0.08bp  short  -25.73bp
+  CRYPTO UTC pooled 4 hours [opp]          n  7070 | avg   +2.49bp t +0.63 win  41% | first half t +0.74  second half t -0.03 | long  +13.91bp  short   -9.74bp
+  BTC UTC-day      5 hours [opp]          n  2417 | avg   +3.33bp t +0.70 win  42% | first half t +0.41  second half t +0.69 | long  +17.13bp  short  -11.15bp
+  ETH UTC-day      5 hours [opp]          n  2403 | avg  +15.78bp t +2.50 win  44% | first half t +1.82  second half t +1.82 | long  +23.62bp  short   +7.07bp
+  SOL UTC-day      5 hours [opp]          n  2173 | avg  -10.07bp t -1.12 win  43% | first half t -0.56  second half t -1.36 | long   +0.36bp  short  -21.17bp
+  CRYPTO UTC pooled 5 hours [opp]          n  6993 | avg   +3.44bp t +0.88 win  43% | first half t +0.74  second half t +0.49 | long  +14.21bp  short   -8.12bp
+
+=== CRYPTO perps, multi-day ranges on UTC daily bars, exit end of week, cost 2bp ===
+  BTC weekly       1 day (Mon range) [opp] n   280 | avg  +11.22bp t +0.38 win  49% | first half t +0.02  second half t +0.68 | long  +51.23bp  short  -36.29bp
+  ETH weekly       1 day (Mon range) [opp] n   286 | avg  -45.75bp t -0.95 win  45% | first half t -1.13  second half t +0.22 | long   -4.80bp  short  -97.75bp
+  SOL weekly       1 day (Mon range) [opp] n   252 | avg  +40.47bp t +0.77 win  51% | first half t +0.45  second half t +0.71 | long  +64.69bp  short  +17.01bp
+  CRYPTO wk pooled 1 day (Mon range) [opp] n   818 | avg   +0.31bp t +0.01 win  48% | first half t -0.50  second half t +0.93 | long  +34.50bp  short  -38.70bp
+  BTC weekly       2 days (Mon-Tue) [opp] n   189 | avg   +5.07bp t +0.17 win  52% | first half t +0.08  second half t +0.18 | long  +36.63bp  short  -31.14bp
+  ETH weekly       2 days (Mon-Tue) [opp] n   196 | avg  -67.80bp t -1.10 win  48% | first half t -1.50  second half t +0.89 | long  +17.34bp  short -174.47bp
+  SOL weekly       2 days (Mon-Tue) [opp] n   177 | avg  -23.61bp t -0.40 win  53% | first half t -0.78  second half t +0.64 | long   +1.45bp  short  -47.83bp
+  CRYPTO wk pooled 2 days (Mon-Tue) [opp] n   562 | avg  -29.37bp t -0.97 win  51% | first half t -1.55  second half t +1.04 | long  +19.24bp  short  -83.86bp
+  BTC weekly       3 days (Mon-Wed) [opp] n    94 | avg  -36.55bp t -1.01 win  47% | first half t -1.31  second half t +0.16 | long   -6.71bp  short  -66.39bp
+  ETH weekly       3 days (Mon-Wed) [opp] n    97 | avg  -86.74bp t -0.81 win  47% | first half t -0.96  second half t +0.49 | long  +38.80bp  short -237.96bp
+  SOL weekly       3 days (Mon-Wed) [opp] n    94 | avg  +19.98bp t +0.34 win  53% | first half t +0.41  second half t +0.00 | long  +75.48bp  short  -45.85bp
+  CRYPTO wk pooled 3 days (Mon-Wed) [opp] n   285 | avg  -34.99bp t -0.81 win  49% | first half t -1.01  second half t +0.35 | long  +37.03bp  short -116.13bp
+  BTC weekly       1 week (prior week) [opp] n   214 | avg  +25.63bp t +0.61 win  50% | first half t +1.23  second half t -0.78 | long  +34.52bp  short  +11.59bp
+  ETH weekly       1 week (prior week) [opp] n   205 | avg  +39.66bp t +0.78 win  53% | first half t +1.40  second half t -0.63 | long  +75.25bp  short  -12.66bp
+  SOL weekly       1 week (prior week) [opp] n   197 | avg  +86.71bp t +1.12 win  53% | first half t +1.78  second half t -0.93 | long +156.16bp  short   +4.15bp
+  CRYPTO wk pooled 1 week (prior week) [opp] n   616 | avg  +49.83bp t +1.50 win  52% | first half t +2.56  second half t -1.36 | long  +84.48bp  short   +1.11bp
+
+=== FUTURES 5m bars (last 60 days only, ~45 sessions: thin), 9:30-16:00 ET, cost 1bp ===
+  FUT 5m pooled    10 min [opp]           n   199 | avg   -1.49bp t -0.25 win  35% | first half t -1.06  second half t +0.20 | long  -11.98bp  short   +6.82bp
+  FUT 5m pooled    15 min [opp]           n   198 | avg   +4.85bp t +0.82 win  39% | first half t -0.67  second half t +1.19 | long   -3.40bp  short  +12.78bp
+  FUT 5m pooled    30 min [opp]           n   190 | avg   +9.85bp t +1.52 win  42% | first half t -0.21  second half t +1.74 | long   +1.19bp  short  +18.34bp
+  FUT 5m pooled    40 min [opp]           n   190 | avg   +8.39bp t +1.33 win  42% | first half t -0.36  second half t +1.59 | long   +1.53bp  short  +15.11bp
+  FUT 5m pooled    45 min [opp]           n   189 | avg   +6.90bp t +1.12 win  41% | first half t -0.64  second half t +1.48 | long   +3.05bp  short  +10.64bp
+  FUT 5m pooled    1 hour [opp]           n   179 | avg   +9.10bp t +1.60 win  46% | first half t -0.75  second half t +2.10 | long   +6.41bp  short  +11.52bp
+  FUT 5m pooled    2 hours [opp]          n   134 | avg   +9.17bp t +1.52 win  53% | first half t +0.23  second half t +1.55 | long   +7.77bp  short  +10.53bp
+  FUT 5m pooled    3 hours [opp]          n   108 | avg   +0.25bp t +0.04 win  53% | first half t +0.86  second half t -0.19 | long   +2.44bp  short   -1.63bp
+  FUT 5m pooled    4 hours [opp]          n    83 | avg   -9.36bp t -1.33 win  45% | first half t -1.15  second half t -1.11 | long   -3.70bp  short  -14.14bp
+  FUT 5m pooled    5 hours [opp]          n    58 | avg  -20.02bp t -1.89 win  38% | first half t -0.72  second half t -1.83 | long   -6.56bp  short  -31.74bp
+
+=== FUTURES 60m bars (since 2024-07), session 9:00-16:00 ET (hourly bars start on the hour), cost 1bp ===
+  NQ 60m           1 hour [opp]           n   512 | avg   +0.39bp t +0.14 win  50% | first half t -0.00  second half t +0.19 | long   -0.53bp  short   +1.49bp
+  ES 60m           1 hour [opp]           n   551 | avg   -0.93bp t -0.48 win  48% | first half t -0.53  second half t -0.13 | long   -1.69bp  short   +0.01bp
+  RTY 60m          1 hour [opp]           n   527 | avg   -0.89bp t -0.31 win  51% | first half t -0.40  second half t -0.02 | long   -1.05bp  short   -0.73bp
+  YM 60m           1 hour [opp]           n   492 | avg   +1.61bp t +0.65 win  48% | first half t +0.55  second half t +0.34 | long   +0.22bp  short   +3.09bp
+  FUT 60m pooled   1 hour [opp]           n  2082 | avg   +0.01bp t +0.00 win  49% | first half t -0.15  second half t +0.17 | long   -0.80bp  short   +0.90bp
+  NQ 60m           2 hours [opp]          n   372 | avg   -0.08bp t -0.03 win  50% | first half t -0.35  second half t +0.30 | long   -1.87bp  short   +2.28bp
+  ES 60m           2 hours [opp]          n   426 | avg   -0.75bp t -0.37 win  49% | first half t -0.27  second half t -0.24 | long   -2.14bp  short   +1.14bp
+  RTY 60m          2 hours [opp]          n   358 | avg   -0.39bp t -0.13 win  51% | first half t -0.35  second half t +0.21 | long   -1.30bp  short   +0.60bp
+  YM 60m           2 hours [opp]          n   386 | avg   -1.17bp t -0.56 win  46% | first half t -0.49  second half t -0.28 | long   -2.35bp  short   +0.08bp
+  FUT 60m pooled   2 hours [opp]          n  1542 | avg   -0.61bp t -0.48 win  49% | first half t -0.72  second half t +0.09 | long   -1.93bp  short   +0.99bp
+  NQ 60m           3 hours [opp]          n   272 | avg   -0.85bp t -0.23 win  51% | first half t -0.34  second half t -0.01 | long   -4.56bp  short   +4.53bp
+  ES 60m           3 hours [opp]          n   326 | avg   -0.56bp t -0.25 win  49% | first half t -0.20  second half t -0.15 | long   -3.03bp  short   +2.80bp
+  RTY 60m          3 hours [opp]          n   264 | avg   -1.88bp t -0.62 win  49% | first half t -0.54  second half t -0.32 | long   -2.56bp  short   -1.03bp
+  YM 60m           3 hours [opp]          n   293 | avg   -1.37bp t -0.65 win  47% | first half t -0.50  second half t -0.42 | long   -3.72bp  short   +1.37bp
+  FUT 60m pooled   3 hours [opp]          n  1155 | avg   -1.14bp t -0.82 win  49% | first half t -0.78  second half t -0.38 | long   -3.47bp  short   +1.90bp
+  NQ 60m           4 hours [opp]          n   199 | avg   -2.74bp t -0.71 win  46% | first half t +0.26  second half t -1.16 | long   -4.63bp  short   -0.11bp
+  ES 60m           4 hours [opp]          n   233 | avg   -2.56bp t -1.01 win  43% | first half t +0.28  second half t -2.01 | long   -4.37bp  short   +0.03bp
+  RTY 60m          4 hours [opp]          n   186 | avg   -4.93bp t -1.45 win  48% | first half t -0.66  second half t -1.55 | long   -6.08bp  short   -3.52bp
+  YM 60m           4 hours [opp]          n   209 | avg   -2.06bp t -0.90 win  46% | first half t +0.15  second half t -1.71 | long   -3.34bp  short   -0.70bp
+  FUT 60m pooled   4 hours [opp]          n   827 | avg   -3.01bp t -1.99 win  46% | first half t -0.02  second half t -2.98 | long   -4.57bp  short   -1.02bp
+  NQ 60m           5 hours [opp]          n   106 | avg   -7.68bp t -1.18 win  46% | first half t -0.48  second half t -1.09 | long  -10.57bp  short   -4.44bp
+  ES 60m           5 hours [opp]          n   127 | avg   -3.05bp t -0.84 win  46% | first half t +0.02  second half t -1.14 | long   -4.30bp  short   -1.35bp
+  RTY 60m          5 hours [opp]          n   101 | avg   -6.90bp t -1.38 win  50% | first half t -0.83  second half t -1.21 | long   -9.44bp  short   -3.19bp
+  YM 60m           5 hours [opp]          n   112 | avg   -2.99bp t -1.01 win  42% | first half t -0.76  second half t -0.66 | long   -3.04bp  short   -2.93bp
+  FUT 60m pooled   5 hours [opp]          n   446 | avg   -5.01bp t -2.18 win  46% | first half t -1.03  second half t -2.00 | long   -6.64bp  short   -2.94bp
+
+=== FUTURES daily bars (since 2000), multi-day ranges, exit Friday close, cost 1bp ===
+  NQ daily         1 day (Mon range) [opp] n  1180 | avg   -4.60bp t -0.75 win  52% | first half t -0.69  second half t -0.34 | long   +5.92bp  short  -18.57bp
+  ES daily         1 day (Mon range) [opp] n  1173 | avg   -4.27bp t -0.92 win  50% | first half t -1.19  second half t +0.01 | long   +3.90bp  short  -14.93bp
+  RTY daily        1 day (Mon range) [opp] n   409 | avg   +1.49bp t +0.16 win  48% | first half t  +nan  second half t +0.16 | long   +5.97bp  short   -3.98bp
+  YM daily         1 day (Mon range) [opp] n  1067 | avg   +1.64bp t +0.36 win  50% | first half t -0.04  second half t +0.57 | long   +6.22bp  short   -4.14bp
+  FUT wk pooled    1 day (Mon range) [opp] n  3829 | avg   -2.11bp t -0.74 win  50% | first half t -1.15  second half t +0.14 | long   +5.39bp  short  -11.78bp
+  NQ daily         2 days (Mon-Tue) [opp] n   846 | avg   +1.11bp t +0.18 win  53% | first half t +0.47  second half t -0.31 | long   +2.69bp  short   -1.24bp
+  ES daily         2 days (Mon-Tue) [opp] n   813 | avg   -1.40bp t -0.30 win  53% | first half t +0.55  second half t -1.07 | long   +1.95bp  short   -6.17bp
+  RTY daily        2 days (Mon-Tue) [opp] n   302 | avg  -11.04bp t -1.08 win  46% | first half t  +nan  second half t -1.08 | long  -14.45bp  short   -6.93bp
+  YM daily         2 days (Mon-Tue) [opp] n   764 | avg   +4.76bp t +1.04 win  55% | first half t +1.10  second half t +0.41 | long   +6.29bp  short   +2.55bp
+  FUT wk pooled    2 days (Mon-Tue) [opp] n  2725 | avg   +0.04bp t +0.01 win  53% | first half t +1.10  second half t -1.05 | long   +1.72bp  short   -2.35bp
+  NQ daily         3 days (Mon-Wed) [opp] n   424 | avg   -0.95bp t -0.14 win  50% | first half t -1.01  second half t +0.81 | long   +1.56bp  short   -4.74bp
+  ES daily         3 days (Mon-Wed) [opp] n   405 | avg   +0.19bp t +0.03 win  55% | first half t -0.21  second half t +0.24 | long   +4.53bp  short   -6.59bp
+  RTY daily        3 days (Mon-Wed) [opp] n   141 | avg   -6.74bp t -0.53 win  48% | first half t  +nan  second half t -0.53 | long   -9.30bp  short   -3.57bp
+  YM daily         3 days (Mon-Wed) [opp] n   363 | avg   +1.02bp t +0.18 win  52% | first half t +0.74  second half t -0.35 | long   +7.35bp  short   -9.05bp
+  FUT wk pooled    3 days (Mon-Wed) [opp] n  1333 | avg   -0.68bp t -0.20 win  52% | first half t -0.52  second half t +0.16 | long   +3.03bp  short   -6.29bp
+  NQ daily         1 week (prior week) [opp] n   926 | avg  -10.45bp t -1.31 win  54% | first half t -1.47  second half t -0.24 | long   +7.36bp  short  -37.10bp
+  ES daily         1 week (prior week) [opp] n   917 | avg  -12.54bp t -1.95 win  53% | first half t -2.44  second half t -0.17 | long   +4.93bp  short  -40.57bp
+  RTY daily        1 week (prior week) [opp] n   303 | avg   +5.05bp t +0.39 win  52% | first half t  +nan  second half t +0.39 | long   -1.64bp  short  +14.32bp
+  YM daily         1 week (prior week) [opp] n   860 | avg   -8.57bp t -1.32 win  52% | first half t -1.35  second half t -0.51 | long   +3.70bp  short  -26.71bp
+  FUT wk pooled    1 week (prior week) [opp] n  3006 | avg   -8.99bp t -2.32 win  53% | first half t -2.97  second half t -0.28 | long   +4.69bp  short  -29.65bp
+
+################ STOP = range midpoint ################
+
+=== CRYPTO perps, range from the 9:30 ET US open, exit 16:00 ET (weekdays), cost 2bp ===
+  BTC US-open      10 min [mid]           n  1782 | avg   +6.60bp t +2.17 win  24% | first half t +1.37  second half t +1.80 | long   +9.37bp  short   +4.01bp
+  ETH US-open      10 min [mid]           n  1780 | avg   +7.49bp t +2.02 win  23% | first half t +1.05  second half t +1.86 | long  +10.81bp  short   +4.58bp
+  SOL US-open      10 min [mid]           n  1597 | avg   +2.46bp t +0.46 win  22% | first half t +0.00  second half t +0.84 | long   +4.38bp  short   +0.61bp
+  CRYPTO US pooled 10 min [mid]           n  5159 | avg   +5.62bp t +2.40 win  23% | first half t +1.16  second half t +2.49 | long   +8.28bp  short   +3.18bp
+  BTC US-open      15 min [mid]           n  1774 | avg   +4.53bp t +1.49 win  26% | first half t +1.56  second half t +0.35 | long   +5.51bp  short   +3.59bp
+  ETH US-open      15 min [mid]           n  1776 | avg   +8.68bp t +2.31 win  27% | first half t +1.46  second half t +1.85 | long  +10.64bp  short   +6.91bp
+  SOL US-open      15 min [mid]           n  1594 | avg   +9.25bp t +1.58 win  25% | first half t +1.69  second half t +0.25 | long   +3.68bp  short  +14.81bp
+  CRYPTO US pooled 15 min [mid]           n  5144 | avg   +7.43bp t +3.02 win  26% | first half t +2.66  second half t +1.45 | long   +6.65bp  short   +8.17bp
+  BTC US-open      30 min [mid]           n  1742 | avg   +8.57bp t +2.68 win  33% | first half t +2.10  second half t +1.67 | long   +9.41bp  short   +7.72bp
+  ETH US-open      30 min [mid]           n  1750 | avg  +10.14bp t +2.62 win  33% | first half t +1.23  second half t +2.56 | long  +11.21bp  short   +9.13bp
+  SOL US-open      30 min [mid]           n  1579 | avg  +12.60bp t +2.08 win  31% | first half t +1.67  second half t +1.25 | long   +6.88bp  short  +18.21bp
+  CRYPTO US pooled 30 min [mid]           n  5071 | avg  +10.37bp t +4.05 win  32% | first half t +2.77  second half t +3.10 | long   +9.23bp  short  +11.48bp
+  BTC US-open      40 min [mid]           n  1718 | avg   +9.35bp t +2.88 win  37% | first half t +2.16  second half t +1.93 | long   +9.24bp  short   +9.47bp
+  ETH US-open      40 min [mid]           n  1720 | avg  +10.09bp t +2.55 win  36% | first half t +1.01  second half t +2.74 | long  +12.09bp  short   +8.22bp
+  SOL US-open      40 min [mid]           n  1559 | avg  +14.27bp t +2.25 win  34% | first half t +2.03  second half t +0.98 | long   +6.46bp  short  +22.08bp
+  CRYPTO US pooled 40 min [mid]           n  4997 | avg  +11.14bp t +4.21 win  35% | first half t +2.96  second half t +3.16 | long   +9.32bp  short  +12.93bp
+  BTC US-open      45 min [mid]           n  1705 | avg   +9.76bp t +3.01 win  38% | first half t +2.55  second half t +1.61 | long  +10.88bp  short   +8.61bp
+  ETH US-open      45 min [mid]           n  1706 | avg   +9.73bp t +2.46 win  37% | first half t +1.02  second half t +2.59 | long  +12.35bp  short   +7.23bp
+  SOL US-open      45 min [mid]           n  1549 | avg  +13.89bp t +2.18 win  35% | first half t +2.31  second half t +0.33 | long   +6.67bp  short  +20.96bp
+  CRYPTO US pooled 45 min [mid]           n  4960 | avg  +11.04bp t +4.15 win  37% | first half t +3.33  second half t +2.50 | long  +10.06bp  short  +11.99bp
+  BTC US-open      1 hour [mid]           n  1655 | avg   +6.61bp t +2.09 win  39% | first half t +1.77  second half t +1.12 | long   +7.91bp  short   +5.31bp
+  ETH US-open      1 hour [mid]           n  1651 | avg   +6.54bp t +1.65 win  38% | first half t +0.54  second half t +1.91 | long  +11.55bp  short   +1.71bp
+  SOL US-open      1 hour [mid]           n  1513 | avg   +9.88bp t +1.54 win  37% | first half t +1.99  second half t -0.46 | long   +9.27bp  short  +10.44bp
+  CRYPTO US pooled 1 hour [mid]           n  4819 | avg   +7.61bp t +2.86 win  38% | first half t +2.54  second half t +1.34 | long   +9.58bp  short   +5.73bp
+  BTC US-open      2 hours [mid]          n  1382 | avg   +0.37bp t +0.11 win  40% | first half t +0.22  second half t -0.15 | long   +6.07bp  short   -5.31bp
+  ETH US-open      2 hours [mid]          n  1383 | avg   +0.47bp t +0.11 win  42% | first half t -0.20  second half t +0.46 | long   +4.78bp  short   -3.95bp
+  SOL US-open      2 hours [mid]          n  1304 | avg   +9.51bp t +1.46 win  43% | first half t +2.12  second half t -0.91 | long   +9.54bp  short   +9.47bp
+  CRYPTO US pooled 2 hours [mid]          n  4069 | avg   +3.33bp t +1.21 win  42% | first half t +1.64  second half t -0.41 | long   +6.69bp  short   +0.05bp
+  BTC US-open      3 hours [mid]          n  1086 | avg   +1.18bp t +0.32 win  43% | first half t +0.45  second half t -0.15 | long   +7.46bp  short   -5.18bp
+  ETH US-open      3 hours [mid]          n  1116 | avg   -3.56bp t -0.79 win  43% | first half t -0.66  second half t -0.44 | long   -1.49bp  short   -5.73bp
+  SOL US-open      3 hours [mid]          n  1088 | avg   +0.37bp t +0.06 win  44% | first half t +0.96  second half t -1.54 | long   +3.23bp  short   -2.14bp
+  CRYPTO US pooled 3 hours [mid]          n  3290 | avg   -0.70bp t -0.25 win  43% | first half t +0.54  second half t -1.39 | long   +2.99bp  short   -4.30bp
+  BTC US-open      4 hours [mid]          n   829 | avg   -1.31bp t -0.35 win  44% | first half t -0.21  second half t -0.35 | long   +7.41bp  short   -9.88bp
+  ETH US-open      4 hours [mid]          n   834 | avg   -1.30bp t -0.30 win  44% | first half t +0.26  second half t -0.99 | long   +1.38bp  short   -4.27bp
+  SOL US-open      4 hours [mid]          n   827 | avg   -3.18bp t -0.53 win  44% | first half t +0.25  second half t -1.71 | long   +4.59bp  short  -10.38bp
+  CRYPTO US pooled 4 hours [mid]          n  2490 | avg   -1.93bp t -0.69 win  44% | first half t +0.22  second half t -1.89 | long   +4.39bp  short   -8.26bp
+  BTC US-open      5 hours [mid]          n   555 | avg   -3.88bp t -0.87 win  46% | first half t -0.34  second half t -1.38 | long   +4.08bp  short  -11.99bp
+  ETH US-open      5 hours [mid]          n   548 | avg   -3.55bp t -0.74 win  43% | first half t -0.41  second half t -0.76 | long   +0.73bp  short   -8.32bp
+  SOL US-open      5 hours [mid]          n   540 | avg   -1.63bp t -0.26 win  46% | first half t +0.37  second half t -1.21 | long   +1.24bp  short   -4.32bp
+  CRYPTO US pooled 5 hours [mid]          n  1643 | avg   -3.03bp t -1.01 win  45% | first half t -0.14  second half t -1.88 | long   +2.02bp  short   -8.19bp
+
+=== CRYPTO perps, range from 00:00 UTC, exit 24:00 UTC (all days), cost 2bp ===
+  BTC UTC-day      10 min [mid]           n  2495 | avg   -3.11bp t -1.05 win   8% | first half t +0.12  second half t -3.48 | long   -2.66bp  short   -3.53bp
+  ETH UTC-day      10 min [mid]           n  2496 | avg   +2.99bp t +0.74 win  10% | first half t +1.34  second half t -1.31 | long   +0.61bp  short   +5.34bp
+  SOL UTC-day      10 min [mid]           n  2232 | avg   -6.95bp t -1.24 win   9% | first half t +0.05  second half t -3.69 | long  -11.36bp  short   -2.34bp
+  CRYPTO UTC pooled 10 min [mid]           n  7223 | avg   -2.19bp t -0.89 win   9% | first half t +0.84  second half t -4.70 | long   -4.29bp  short   -0.10bp
+  BTC UTC-day      15 min [mid]           n  2494 | avg   -2.23bp t -0.71 win   9% | first half t +0.11  second half t -2.09 | long   +1.22bp  short   -5.48bp
+  ETH UTC-day      15 min [mid]           n  2496 | avg   +4.04bp t +0.95 win  11% | first half t +1.66  second half t -1.54 | long   +3.16bp  short   +4.89bp
+  SOL UTC-day      15 min [mid]           n  2232 | avg   -8.25bp t -1.42 win  10% | first half t -0.18  second half t -3.29 | long  -11.29bp  short   -5.10bp
+  CRYPTO UTC pooled 15 min [mid]           n  7222 | avg   -1.92bp t -0.75 win  10% | first half t +0.88  second half t -4.07 | long   -2.10bp  short   -1.75bp
+  BTC UTC-day      30 min [mid]           n  2492 | avg   +0.80bp t +0.23 win  13% | first half t +1.12  second half t -2.04 | long   +2.73bp  short   -0.98bp
+  ETH UTC-day      30 min [mid]           n  2493 | avg   +9.58bp t +1.98 win  15% | first half t +2.27  second half t -0.11 | long  +14.36bp  short   +5.03bp
+  SOL UTC-day      30 min [mid]           n  2232 | avg   -5.99bp t -0.94 win  13% | first half t +0.42  second half t -3.36 | long   -9.28bp  short   -2.75bp
+  CRYPTO UTC pooled 30 min [mid]           n  7217 | avg   +1.73bp t +0.61 win  14% | first half t +2.08  second half t -3.09 | long   +2.96bp  short   +0.56bp
+  BTC UTC-day      40 min [mid]           n  2490 | avg   +4.61bp t +1.27 win  16% | first half t +1.69  second half t -0.61 | long   +8.01bp  short   +1.49bp
+  ETH UTC-day      40 min [mid]           n  2489 | avg  +13.19bp t +2.59 win  17% | first half t +3.01  second half t -0.18 | long  +18.44bp  short   +8.18bp
+  SOL UTC-day      40 min [mid]           n  2232 | avg   -5.42bp t -0.82 win  15% | first half t +0.38  second half t -2.82 | long   -9.75bp  short   -1.09bp
+  CRYPTO UTC pooled 40 min [mid]           n  7211 | avg   +4.47bp t +1.50 win  16% | first half t +2.72  second half t -2.23 | long   +5.98bp  short   +3.02bp
+  BTC UTC-day      45 min [mid]           n  2490 | avg   +5.30bp t +1.44 win  16% | first half t +1.78  second half t -0.38 | long   +8.08bp  short   +2.71bp
+  ETH UTC-day      45 min [mid]           n  2488 | avg  +14.04bp t +2.73 win  18% | first half t +3.03  second half t +0.10 | long  +19.12bp  short   +9.13bp
+  SOL UTC-day      45 min [mid]           n  2232 | avg   -4.47bp t -0.66 win  16% | first half t +0.45  second half t -2.58 | long   -9.49bp  short   +0.60bp
+  CRYPTO UTC pooled 45 min [mid]           n  7210 | avg   +5.29bp t +1.75 win  17% | first half t +2.81  second half t -1.79 | long   +6.34bp  short   +4.28bp
+  BTC UTC-day      1 hour [mid]           n  2489 | avg   +5.81bp t +1.53 win  19% | first half t +1.35  second half t +0.71 | long  +10.49bp  short   +1.30bp
+  ETH UTC-day      1 hour [mid]           n  2488 | avg  +15.45bp t +2.95 win  20% | first half t +3.16  second half t +0.35 | long  +20.85bp  short  +10.20bp
+  SOL UTC-day      1 hour [mid]           n  2231 | avg   -3.27bp t -0.48 win  19% | first half t +0.34  second half t -1.82 | long   -4.73bp  short   -1.74bp
+  CRYPTO UTC pooled 1 hour [mid]           n  7208 | avg   +6.33bp t +2.05 win  19% | first half t +2.63  second half t -0.69 | long   +9.19bp  short   +3.48bp
+  BTC UTC-day      2 hours [mid]          n  2475 | avg   +1.26bp t +0.33 win  24% | first half t -0.04  second half t +0.77 | long   +9.06bp  short   -6.58bp
+  ETH UTC-day      2 hours [mid]          n  2473 | avg  +12.18bp t +2.25 win  25% | first half t +2.31  second half t +0.49 | long  +18.43bp  short   +5.80bp
+  SOL UTC-day      2 hours [mid]          n  2225 | avg   -7.97bp t -1.09 win  24% | first half t -0.39  second half t -1.72 | long   -3.13bp  short  -13.01bp
+  CRYPTO UTC pooled 2 hours [mid]          n  7173 | avg   +2.16bp t +0.67 win  24% | first half t +1.02  second half t -0.51 | long   +8.47bp  short   -4.29bp
+  BTC UTC-day      3 hours [mid]          n  2462 | avg   +1.63bp t +0.41 win  26% | first half t +0.36  second half t +0.20 | long  +13.14bp  short  -10.11bp
+  ETH UTC-day      3 hours [mid]          n  2458 | avg  +10.64bp t +1.96 win  28% | first half t +1.80  second half t +0.81 | long  +17.25bp  short   +3.55bp
+  SOL UTC-day      3 hours [mid]          n  2211 | avg   -1.68bp t -0.22 win  28% | first half t +0.48  second half t -1.56 | long  +11.96bp  short  -15.97bp
+  CRYPTO UTC pooled 3 hours [mid]          n  7131 | avg   +3.71bp t +1.12 win  27% | first half t +1.49  second half t -0.46 | long  +14.21bp  short   -7.28bp
+  BTC UTC-day      4 hours [mid]          n  2445 | avg   -0.09bp t -0.02 win  28% | first half t +0.17  second half t -0.37 | long  +12.62bp  short  -13.21bp
+  ETH UTC-day      4 hours [mid]          n  2431 | avg  +11.08bp t +1.97 win  30% | first half t +2.07  second half t +0.36 | long  +16.45bp  short   +5.03bp
+  SOL UTC-day      4 hours [mid]          n  2194 | avg  -10.80bp t -1.37 win  30% | first half t -0.68  second half t -1.78 | long   +1.70bp  short  -24.03bp
+  CRYPTO UTC pooled 4 hours [mid]          n  7070 | avg   +0.43bp t +0.12 win  29% | first half t +0.72  second half t -1.12 | long  +10.60bp  short  -10.48bp
+  BTC UTC-day      5 hours [mid]          n  2417 | avg   +0.04bp t +0.01 win  30% | first half t +0.10  second half t -0.17 | long  +13.17bp  short  -13.74bp
+  ETH UTC-day      5 hours [mid]          n  2403 | avg  +12.84bp t +2.29 win  33% | first half t +1.98  second half t +1.16 | long  +16.57bp  short   +8.70bp
+  SOL UTC-day      5 hours [mid]          n  2173 | avg   -9.30bp t -1.18 win  32% | first half t -0.40  second half t -1.91 | long   +3.26bp  short  -22.66bp
+  CRYPTO UTC pooled 5 hours [mid]          n  6993 | avg   +1.53bp t +0.45 win  32% | first half t +0.82  second half t -0.60 | long  +11.29bp  short   -8.94bp
+
+=== CRYPTO perps, multi-day ranges on UTC daily bars, exit end of week, cost 2bp ===
+  BTC weekly       1 day (Mon range) [mid] n   280 | avg  +19.48bp t +0.68 win  46% | first half t +0.41  second half t +0.63 | long  +64.38bp  short  -33.83bp
+  ETH weekly       1 day (Mon range) [mid] n   286 | avg  -62.12bp t -1.41 win  40% | first half t -1.40  second half t -0.34 | long  -29.54bp  short -103.49bp
+  SOL weekly       1 day (Mon range) [mid] n   252 | avg   -1.17bp t -0.02 win  46% | first half t -0.63  second half t +0.88 | long   +9.38bp  short  -11.38bp
+  CRYPTO wk pooled 1 day (Mon range) [mid] n   818 | avg  -15.41bp t -0.65 win  44% | first half t -1.17  second half t +0.73 | long  +14.27bp  short  -49.28bp
+  BTC weekly       2 days (Mon-Tue) [mid] n   189 | avg   +2.87bp t +0.10 win  50% | first half t +0.02  second half t +0.15 | long  +35.72bp  short  -34.84bp
+  ETH weekly       2 days (Mon-Tue) [mid] n   196 | avg  -72.84bp t -1.27 win  45% | first half t -1.52  second half t +0.36 | long   -6.99bp  short -155.33bp
+  SOL weekly       2 days (Mon-Tue) [mid] n   177 | avg  -49.64bp t -0.78 win  51% | first half t -1.19  second half t +0.69 | long   -9.98bp  short  -87.97bp
+  CRYPTO wk pooled 2 days (Mon-Tue) [mid] n   562 | avg  -40.07bp t -1.34 win  49% | first half t -1.82  second half t +0.74 | long   +6.66bp  short  -92.44bp
+  BTC weekly       3 days (Mon-Wed) [mid] n    94 | avg  -42.94bp t -1.17 win  47% | first half t -1.31  second half t -0.15 | long  -10.01bp  short  -75.88bp
+  ETH weekly       3 days (Mon-Wed) [mid] n    97 | avg  -62.55bp t -0.66 win  47% | first half t -0.85  second half t +0.58 | long  +55.70bp  short -204.98bp
+  SOL weekly       3 days (Mon-Wed) [mid] n    94 | avg   +7.39bp t +0.12 win  53% | first half t +0.11  second half t +0.05 | long  +58.61bp  short  -53.36bp
+  CRYPTO wk pooled 3 days (Mon-Wed) [mid] n   285 | avg  -33.02bp t -0.83 win  49% | first half t -1.02  second half t +0.30 | long  +36.23bp  short -111.04bp
+  BTC weekly       1 week (prior week) [mid] n   214 | avg  +22.36bp t +0.55 win  47% | first half t +1.21  second half t -0.89 | long  +40.40bp  short   -6.11bp
+  ETH weekly       1 week (prior week) [mid] n   205 | avg  +57.07bp t +1.21 win  52% | first half t +1.63  second half t -0.27 | long  +70.42bp  short  +37.46bp
+  SOL weekly       1 week (prior week) [mid] n   197 | avg +118.09bp t +1.59 win  53% | first half t +2.04  second half t -0.48 | long +194.39bp  short  +27.38bp
+  CRYPTO wk pooled 1 week (prior week) [mid] n   616 | avg  +64.53bp t +2.03 win  51% | first half t +2.86  second half t -0.91 | long  +96.34bp  short  +19.79bp
+
+=== FUTURES 5m bars (last 60 days only, ~45 sessions: thin), 9:30-16:00 ET, cost 1bp ===
+  FUT 5m pooled    10 min [mid]           n   199 | avg   +0.36bp t +0.07 win  26% | first half t -1.24  second half t +0.55 | long   -9.27bp  short   +8.00bp
+  FUT 5m pooled    15 min [mid]           n   198 | avg   +3.57bp t +0.67 win  31% | first half t -0.27  second half t +0.83 | long   -7.83bp  short  +14.51bp
+  FUT 5m pooled    30 min [mid]           n   190 | avg   +9.35bp t +1.57 win  37% | first half t +0.20  second half t +1.61 | long   -1.79bp  short  +20.26bp
+  FUT 5m pooled    40 min [mid]           n   190 | avg  +11.71bp t +1.98 win  39% | first half t +0.60  second half t +1.89 | long   +4.20bp  short  +19.07bp
+  FUT 5m pooled    45 min [mid]           n   189 | avg  +10.96bp t +1.93 win  39% | first half t +0.29  second half t +1.96 | long   +5.30bp  short  +16.44bp
+  FUT 5m pooled    1 hour [mid]           n   179 | avg  +10.77bp t +1.93 win  45% | first half t +0.18  second half t +2.01 | long   +7.85bp  short  +13.40bp
+  FUT 5m pooled    2 hours [mid]          n   134 | avg  +10.52bp t +1.78 win  53% | first half t +1.00  second half t +1.53 | long   +8.43bp  short  +12.54bp
+  FUT 5m pooled    3 hours [mid]          n   108 | avg   -0.66bp t -0.11 win  53% | first half t +0.32  second half t -0.21 | long   +0.71bp  short   -1.85bp
+  FUT 5m pooled    4 hours [mid]          n    83 | avg   -8.95bp t -1.27 win  45% | first half t -1.15  second half t -1.05 | long   -3.99bp  short  -13.14bp
+  FUT 5m pooled    5 hours [mid]          n    58 | avg  -20.81bp t -1.96 win  36% | first half t -0.72  second half t -1.91 | long   -8.25bp  short  -31.74bp
+
+=== FUTURES 60m bars (since 2024-07), session 9:00-16:00 ET (hourly bars start on the hour), cost 1bp ===
+  NQ 60m           1 hour [mid]           n   512 | avg   -0.63bp t -0.24 win  46% | first half t -0.37  second half t +0.02 | long   -1.60bp  short   +0.53bp
+  ES 60m           1 hour [mid]           n   551 | avg   -0.18bp t -0.10 win  44% | first half t -0.14  second half t +0.00 | long   -0.89bp  short   +0.70bp
+  RTY 60m          1 hour [mid]           n   527 | avg   -1.61bp t -0.58 win  47% | first half t -0.92  second half t +0.15 | long   -4.27bp  short   +0.92bp
+  YM 60m           1 hour [mid]           n   492 | avg   +1.16bp t +0.48 win  45% | first half t +0.32  second half t +0.39 | long   +0.39bp  short   +1.96bp
+  FUT 60m pooled   1 hour [mid]           n  2082 | avg   -0.34bp t -0.28 win  46% | first half t -0.59  second half t +0.24 | long   -1.57bp  short   +1.02bp
+  NQ 60m           2 hours [mid]          n   372 | avg   +0.13bp t +0.04 win  49% | first half t -0.40  second half t +0.42 | long   -3.12bp  short   +4.44bp
+  ES 60m           2 hours [mid]          n   426 | avg   -0.75bp t -0.38 win  47% | first half t -0.45  second half t -0.06 | long   -2.18bp  short   +1.19bp
+  RTY 60m          2 hours [mid]          n   358 | avg   -1.41bp t -0.47 win  50% | first half t -0.86  second half t +0.34 | long   -3.12bp  short   +0.48bp
+  YM 60m           2 hours [mid]          n   386 | avg   -0.99bp t -0.49 win  45% | first half t -0.50  second half t -0.16 | long   -2.83bp  short   +0.94bp
+  FUT 60m pooled   2 hours [mid]          n  1542 | avg   -0.75bp t -0.60 win  48% | first half t -1.13  second half t +0.36 | long   -2.78bp  short   +1.70bp
+  NQ 60m           3 hours [mid]          n   272 | avg   -1.15bp t -0.32 win  50% | first half t -0.43  second half t -0.03 | long   -4.76bp  short   +4.08bp
+  ES 60m           3 hours [mid]          n   326 | avg   -1.11bp t -0.49 win  48% | first half t -0.38  second half t -0.31 | long   -3.77bp  short   +2.52bp
+  RTY 60m          3 hours [mid]          n   264 | avg   -2.93bp t -0.95 win  48% | first half t -0.81  second half t -0.52 | long   -4.12bp  short   -1.43bp
+  YM 60m           3 hours [mid]          n   293 | avg   -1.72bp t -0.82 win  46% | first half t -0.82  second half t -0.29 | long   -5.21bp  short   +2.36bp
+  FUT 60m pooled   3 hours [mid]          n  1155 | avg   -1.69bp t -1.23 win  48% | first half t -1.19  second half t -0.52 | long   -4.44bp  short   +1.90bp
+  NQ 60m           4 hours [mid]          n   199 | avg   -2.04bp t -0.55 win  46% | first half t +0.32  second half t -1.02 | long   -3.60bp  short   +0.15bp
+  ES 60m           4 hours [mid]          n   233 | avg   -2.08bp t -0.85 win  43% | first half t +0.26  second half t -1.81 | long   -3.69bp  short   +0.22bp
+  RTY 60m          4 hours [mid]          n   186 | avg   -5.24bp t -1.53 win  48% | first half t -0.87  second half t -1.44 | long   -6.69bp  short   -3.43bp
+  YM 60m           4 hours [mid]          n   209 | avg   -2.12bp t -0.95 win  46% | first half t +0.07  second half t -1.71 | long   -4.32bp  short   +0.23bp
+  FUT 60m pooled   4 hours [mid]          n   827 | avg   -2.79bp t -1.88 win  46% | first half t -0.17  second half t -2.75 | long   -4.48bp  short   -0.63bp
+  NQ 60m           5 hours [mid]          n   106 | avg   -6.38bp t -1.02 win  46% | first half t -0.42  second half t -0.95 | long   -8.57bp  short   -3.92bp
+  ES 60m           5 hours [mid]          n   127 | avg   -2.32bp t -0.66 win  46% | first half t +0.08  second half t -0.99 | long   -3.49bp  short   -0.74bp
+  RTY 60m          5 hours [mid]          n   101 | avg   -7.83bp t -1.51 win  50% | first half t -1.00  second half t -1.21 | long  -11.00bp  short   -3.19bp
+  YM 60m           5 hours [mid]          n   112 | avg   -2.87bp t -0.98 win  42% | first half t -0.79  second half t -0.59 | long   -3.04bp  short   -2.68bp
+  FUT 60m pooled   5 hours [mid]          n   446 | avg   -4.67bp t -2.07 win  46% | first half t -1.10  second half t -1.81 | long   -6.34bp  short   -2.57bp
+
+=== FUTURES daily bars (since 2000), multi-day ranges, exit Friday close, cost 1bp ===
+  NQ daily         1 day (Mon range) [mid] n  1180 | avg   -1.92bp t -0.35 win  47% | first half t +0.02  second half t -0.61 | long   +7.77bp  short  -14.78bp
+  ES daily         1 day (Mon range) [mid] n  1173 | avg   -5.15bp t -1.22 win  44% | first half t -1.19  second half t -0.46 | long   +2.34bp  short  -14.93bp
+  RTY daily        1 day (Mon range) [mid] n   409 | avg   -1.52bp t -0.17 win  44% | first half t  +nan  second half t -0.17 | long   -1.27bp  short   -1.83bp
+  YM daily         1 day (Mon range) [mid] n  1067 | avg   +1.89bp t +0.45 win  45% | first half t +0.50  second half t +0.13 | long   +5.69bp  short   -2.91bp
+  FUT wk pooled    1 day (Mon range) [mid] n  3829 | avg   -1.81bp t -0.69 win  45% | first half t -0.40  second half t -0.59 | long   +4.59bp  short  -10.05bp
+  NQ daily         2 days (Mon-Tue) [mid] n   846 | avg   +0.04bp t +0.01 win  51% | first half t +0.10  second half t -0.12 | long   +4.59bp  short   -6.73bp
+  ES daily         2 days (Mon-Tue) [mid] n   813 | avg   -0.21bp t -0.05 win  50% | first half t +0.84  second half t -1.01 | long   +4.27bp  short   -6.57bp
+  RTY daily        2 days (Mon-Tue) [mid] n   302 | avg   -9.03bp t -0.95 win  45% | first half t  +nan  second half t -0.95 | long  -13.00bp  short   -4.25bp
+  YM daily         2 days (Mon-Tue) [mid] n   764 | avg   +4.30bp t +0.97 win  52% | first half t +1.22  second half t +0.20 | long   +8.05bp  short   -1.11bp
+  FUT wk pooled    2 days (Mon-Tue) [mid] n  2725 | avg   +0.15bp t +0.06 win  50% | first half t +1.02  second half t -0.93 | long   +3.66bp  short   -4.82bp
+  NQ daily         3 days (Mon-Wed) [mid] n   424 | avg   +0.32bp t +0.05 win  50% | first half t -0.99  second half t +1.04 | long   +2.65bp  short   -3.19bp
+  ES daily         3 days (Mon-Wed) [mid] n   405 | avg   +0.21bp t +0.04 win  54% | first half t -0.20  second half t +0.23 | long   +4.56bp  short   -6.59bp
+  RTY daily        3 days (Mon-Wed) [mid] n   141 | avg   -6.09bp t -0.49 win  48% | first half t  +nan  second half t -0.49 | long   -9.27bp  short   -2.15bp
+  YM daily         3 days (Mon-Wed) [mid] n   363 | avg   +0.49bp t +0.09 win  52% | first half t +0.61  second half t -0.37 | long   +6.48bp  short   -9.06bp
+  FUT wk pooled    3 days (Mon-Wed) [mid] n  1333 | avg   -0.34bp t -0.10 win  51% | first half t -0.53  second half t +0.29 | long   +3.14bp  short   -5.63bp
+  NQ daily         1 week (prior week) [mid] n   926 | avg   -9.16bp t -1.22 win  52% | first half t -1.38  second half t -0.23 | long   +7.09bp  short  -33.47bp
+  ES daily         1 week (prior week) [mid] n   917 | avg   -9.33bp t -1.59 win  51% | first half t -2.22  second half t +0.14 | long   +6.46bp  short  -34.67bp
+  RTY daily        1 week (prior week) [mid] n   303 | avg   +5.40bp t +0.44 win  50% | first half t  +nan  second half t +0.44 | long   -1.99bp  short  +15.64bp
+  YM daily         1 week (prior week) [mid] n   860 | avg   -5.41bp t -0.89 win  51% | first half t -1.24  second half t -0.00 | long   +6.08bp  short  -22.40bp
+  FUT wk pooled    1 week (prior week) [mid] n  3006 | avg   -6.67bp t -1.84 win  51% | first half t -2.73  second half t +0.15 | long   +5.72bp  short  -25.41bp
+
+302 tests run. Passing (t>2 overall AND t>1.5 in both halves): 16
+  CRYPTO US pooled 40 min [mid]             n  4997 avg +11.14bp t +4.21 (halves +2.96 / +3.16) long +9.32 short +12.93
+  CRYPTO US pooled 45 min [mid]             n  4960 avg +11.04bp t +4.15 (halves +3.33 / +2.50) long +10.06 short +11.99
+  CRYPTO US pooled 30 min [opp]             n  5071 avg +12.13bp t +4.15 (halves +3.29 / +2.55) long +10.81 short +13.43
+  CRYPTO US pooled 40 min [opp]             n  4997 avg +12.32bp t +4.14 (halves +3.35 / +2.44) long +10.00 short +14.59
+  CRYPTO US pooled 30 min [mid]             n  5071 avg +10.37bp t +4.05 (halves +2.77 / +3.10) long +9.23 short +11.48
+  CRYPTO US pooled 45 min [opp]             n  4960 avg +11.29bp t +3.81 (halves +3.10 / +2.22) long +10.41 short +12.16
+  BTC US-open      40 min [opp]             n  1718 avg +13.26bp t +3.63 (halves +3.26 / +1.67) long +11.55 short +15.00
+  BTC US-open      45 min [mid]             n  1705 avg +9.76bp t +3.01 (halves +2.55 / +1.61) long +10.88 short +8.61
+  BTC US-open      40 min [mid]             n  1718 avg +9.35bp t +2.88 (halves +2.16 / +1.93) long +9.24 short +9.47
+  ETH US-open      30 min [opp]             n  1750 avg +12.67bp t +2.83 (halves +1.74 / +2.35) long +16.23 short +9.31
+  ETH US-open      40 min [opp]             n  1720 avg +12.74bp t +2.83 (halves +1.81 / +2.27) long +17.20 short +8.57
+  BTC US-open      30 min [mid]             n  1742 avg +8.57bp t +2.68 (halves +2.10 / +1.67) long +9.41 short +7.72
+  ETH UTC-day      5 hours [opp]            n  2403 avg +15.78bp t +2.50 (halves +1.82 / +1.82) long +23.62 short +7.07
+  ETH UTC-day      4 hours [opp]            n  2431 avg +15.52bp t +2.44 (halves +1.93 / +1.51) long +22.84 short +7.28
+  ETH UTC-day      3 hours [opp]            n  2458 avg +15.18bp t +2.42 (halves +1.84 / +1.64) long +23.31 short +6.46
+  CRYPTO US pooled 10 min [opp]             n  5159 avg +6.50bp t +2.38 (halves +1.70 / +1.71) long +6.68 short +6.33
